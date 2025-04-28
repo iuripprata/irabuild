@@ -1,9 +1,9 @@
 const cacheName = "DefaultCompany-Iracema-0.1";
 const contentToCache = [
-    "Build/IracemaBuild.loader.js",
-    "Build/IracemaBuild.framework.js.gz",
-    "Build/IracemaBuild.data.gz",
-    "Build/IracemaBuild.wasm.gz",
+    "Build/irabuild.loader.js",
+    "Build/irabuild.framework.js",
+    "Build/irabuild.data",
+    "Build/irabuild.wasm",
     "TemplateData/style.css"
 
 ];
